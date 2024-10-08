@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main() {
+   int i = 2147483648;// Max value = 2147483648
+ //  Min value = -2147483647
+ // The numbers work in a cycle
+   printf("value of i = %d\n", i);
+   
+    return 0;
+}
+
+OUTPUT
+value of i = -2147483648
+
+
+=== Code Execution Successful ===
+
