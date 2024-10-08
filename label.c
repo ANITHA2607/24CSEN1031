@@ -12,3 +12,13 @@ int main() {
     printf("You entered a valid positive number: %d\n", number);
     return 0;
 }
+
+
+
+OUTPUT
+
+Enter a positive number: 25
+You entered a valid positive number: 25
+
+
+=== Code Execution Successful ===
